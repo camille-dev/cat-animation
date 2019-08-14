@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This project aims at reproducing, for a personal learning purpose, the animation created by the Google extension Tabby Cat. 
 
 ## Resources and technologies
-[React](https://fr.reactjs.org/)
+[React](https://fr.reactjs.org/)  
 [Method Draw](https://editor.method.ac/) for the creation of SVG  
