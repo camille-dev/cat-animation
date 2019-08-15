@@ -18,12 +18,12 @@
 }
 
 .Tilt-Right .Head{
-  transform-origin: 50% 50%;
+  transform-origin: 321px 129px;
   transform: rotate(7deg);
 }
 
 .Tilt-Left .Head{
-  transform-origin: 50% 50%;
+  transform-origin: 321px 129px;
   transform: rotate(-7deg);
 }
 
